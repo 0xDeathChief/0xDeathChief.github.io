@@ -12,9 +12,7 @@ author:
   
 
 # Hello world
-
   
-
   This is my first blog
 
-  This is a reference test
+  
