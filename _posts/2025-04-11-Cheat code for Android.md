@@ -6,6 +6,8 @@ categories:
 tags:
   - Code
 ---
+# General Code
+
 | Status                                          | Code                               |
 | ----------------------------------------------- | :--------------------------------- |
 | Find your device's IMEI number                  | `*#06#`                            |
