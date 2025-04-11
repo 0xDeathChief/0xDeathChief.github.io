@@ -25,5 +25,6 @@ I'm currently exploring the world of cybersecurity, participating in *Capture Th
 
 
 - 🔰 [Twitter](https://x.com/0xDeathChief)
+- 🔰 [Linkedin](https://www.linkedin.com/in/azmain-fayek-ahnaf)
 
 
