@@ -1,6 +1,6 @@
 ---
 title: Cheat code for Android
-date: 2025-04-11 00:00:00 +0800
+date: 2025-04-11 04:00:00 +0800
 categories: Android_Code
 tags: Code
 ---
