@@ -11,14 +11,10 @@
             "id": "9d698face73cf9a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-04-11-hello-world.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-04-11-hello-world"
+              "title": "New tab"
             }
           }
         ]
@@ -169,13 +165,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d698face73cf9a0",
+  "active": "737d5ae941eee8c6",
   "lastOpenFiles": [
     "_site/categories/hello-world/index.html",
     "_site/categories/hello-world",
     "_site/tags/hello-world/index.html",
     "_site/tags/hello-world",
     "README.md",
-    "_posts/2025-04-11-hello-world.md"
+    "_site/archives/2025-04-11-hello-world.md"
   ]
 }

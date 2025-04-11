@@ -1,4 +1,4 @@
-I"‹<!-- The Search results -->
+I"]<!-- The Search results -->
 
 <div id="search-result-wrapper" class="d-flex justify-content-center d-none">
   <div class="col-11 content">
@@ -19,26 +19,7 @@
 
 
 
-  
-    
-    
-    
-    
-      
-        
-        
 
-
-
-  <section>
-    <h2 class="panel-heading">Trending Tags</h2>
-    <div class="d-flex flex-wrap mt-3 mb-1 me-3">
-      
-        
-        <a class="post-tag btn btn-outline-primary" href="/tags/hello-world/">hello world</a>
-      
-    </div>
-  </section>
 
 
     </div>
