@@ -5,11 +5,7 @@ categories:
   - Hello world
 tags:
   - Hello_world
-author: 
-  Name: Death Chief
 ---
-
-  
 
 # Hello world
   
