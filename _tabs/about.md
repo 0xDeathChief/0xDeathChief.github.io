@@ -28,8 +28,4 @@ I'm currently exploring the world of cybersecurity, participating in *Capture Th
 
 - 🔰 [Twitter](https://x.com/0xDeathChief)
 
----
 
-<div align="center">
-  <img src="https://github.com/0xDeathChief/0xDeathChief/blob/main/9d132b707038602f4671ef32d167cdd3.gif" alt="loading">
-</div>
