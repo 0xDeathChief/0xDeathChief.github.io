@@ -6,7 +6,7 @@ order: 4
 
 # Hi, I'm 0xDeathChief
 
-Welcome to my GitHub profile!  
+  
 I’m a **Cybersecurity Student** passionate about **Red Teaming**, **Malware Analysis**, and **Exploit Development**.  
 I'm currently exploring the world of cybersecurity, participating in *Capture The Flag (CTF)* challenges, and learning every day.
 
