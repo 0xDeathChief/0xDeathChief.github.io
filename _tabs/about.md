@@ -6,7 +6,7 @@ order: 4
 
 #> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page. {: .prompt-tip }
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> **Hi, I'm 0xDeathChief**
+# Hi, I'm 0xDeathChief
 
 Welcome to my GitHub profile!  
 I’m a **Cybersecurity Student** passionate about **Red Teaming**, **Malware Analysis**, and **Exploit Development**.  
