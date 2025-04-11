@@ -23,6 +23,7 @@ tags: Red_Team
 - figure out errors on your own, and if you can't. reach out to others for help
 
 ---
+
 # STAGE 01:
 
 1. Language Types:
@@ -72,6 +73,7 @@ tags: Red_Team
 - A good malware developer should never limit themselves to a few language. Once you build a strong foundation, move on to learning more complex concepts.
 
 ---
+
 # STAGE 02
 
 #### Cybersecurity Fundamentals
@@ -98,8 +100,8 @@ tags: Red_Team
 	- AES, XOR, Base64
 - obfuscation
 
-
 ---
+
 # STAGE 03
 #### Networking Fundamentals
 
@@ -110,6 +112,7 @@ tags: Red_Team
 	3. Utilize protocols for remote connectivity and exfiltration
 
 ---
+
 # STAGE 04
 #### Malware development
 
@@ -121,8 +124,9 @@ tags: Red_Team
 	5. Trojan Development
 
 ---
+
 # Reverse Engineering:
 
 - Light reverse engineering and malware analysis can go a long way. It will teach you how the malware actually works and runs through the system. It will also teach you about the latest trends and techniques in development
 
----
+
