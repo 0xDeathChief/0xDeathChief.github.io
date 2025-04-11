@@ -25,8 +25,14 @@ I'm currently exploring the world of cybersecurity, participating in *Capture Th
 
 ## 🌐 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&color=181717)](https://github.com/Hunter-leader)  
-[![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&color=1DA1F2)](mailto:hunterleader405@gmail.com)
+
+- 🔰 [Linkedin](https://www.linkedin.com/in/azmain-fayek-ahnaf/)
+
+- 🔰 [YouTube](https://youtube.com/remonsec)
+
+- 🔰 [Twitter](https://twitter.com/remonsec)
+
+- 🔰 [Medium](https://medium.com/@remonsec)
 
 ---
 
