@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c1a2d7f95950ac1",
+        "id": "ac810d4a69bff2bc",
         "type": "tabs",
         "children": [
           {
-            "id": "9d698face73cf9a0",
+            "id": "7e1e1dec8b27da69",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,11 +167,13 @@
   },
   "active": "737d5ae941eee8c6",
   "lastOpenFiles": [
+    "_site/Untitled.md",
+    "Untitled.md",
+    "_site/archives/2025-04-11-hello-world.md",
     "_site/categories/hello-world/index.html",
     "_site/categories/hello-world",
     "_site/tags/hello-world/index.html",
     "_site/tags/hello-world",
-    "README.md",
-    "_site/archives/2025-04-11-hello-world.md"
+    "README.md"
   ]
 }
