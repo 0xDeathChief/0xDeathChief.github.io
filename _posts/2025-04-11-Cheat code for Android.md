@@ -1,8 +1,8 @@
 ---
 title: Cheat code for Android
 date: 2025-04-11 04:00:00 +0800
-categories: Android_Code
-tags: Code
+categories: Dial_code
+tags: Android
 ---
 
 # General Code

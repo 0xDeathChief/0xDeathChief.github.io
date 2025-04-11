@@ -1,7 +1,7 @@
 ---
 title: Reverse Engineering
 date: 2025-04-11 06:06:00 +0800
-categories: Red_Teaming
+categories: Red_Teaming Reverse_Engineering_guidline
 tags: Red_Team
 ---
 
