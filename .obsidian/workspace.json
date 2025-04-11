@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_posts/2025-04-11-Template-how-to-post-it.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2025-04-11-Template-how-to-post-it"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "7e1e1dec8b27da69",
   "lastOpenFiles": [
+    "README.md",
     "_posts/2025-04-11-Template-how-to-post-it.md",
     "_site/tags/hello-world/index.html",
     "_site/tags/hello-world",
@@ -181,7 +182,6 @@
     "_site/posts/Template-how-to-post-it/index.html",
     "_site/posts/Template-how-to-post-it",
     "_site/Untitled.md",
-    "_site/archives/2025-04-11-hello-world.md",
-    "README.md"
+    "_site/archives/2025-04-11-hello-world.md"
   ]
 }
