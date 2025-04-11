@@ -26,13 +26,7 @@ I'm currently exploring the world of cybersecurity, participating in *Capture Th
 ## 🌐 Let's Connect
 
 
-- 🔰 [Linkedin](https://www.linkedin.com/in/azmain-fayek-ahnaf/)
-
-- 🔰 [YouTube](https://youtube.com/remonsec)
-
-- 🔰 [Twitter](https://twitter.com/remonsec)
-
-- 🔰 [Medium](https://medium.com/@remonsec)
+- 🔰 [Twitter](https://x.com/0xDeathChief)
 
 ---
 
