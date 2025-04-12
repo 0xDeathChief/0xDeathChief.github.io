@@ -26,16 +26,16 @@ tags:
 | Check signal strength                           | `*3001#12345#`                     |
 | Check call forwarding status                    | `*#67#`                            |
 | Run a factory reset                             | `*#*#7780#*#*`                     |
-| Touch-screen version and testing.               | `***#*#2664#*#***`Â                |
+| Touch-screen version and testing.               | `***#*#2664#*#***`                 |
 | Test vibration and backlight.                   | `***#*#0842#*#***`                 |
-| Test Wi-Fi network.                             | `***#*#232339#*#***`Â              |
+| Test Wi-Fi network.                             | `***#*#232339#*#***`               |
 | Proximity sensor test.                          | `***#*#0588#*#***`                 |
-| Create device media backup.                     | `***#*#273282*255*663282*#*#***`Â  |
-| Display camera information.                     | `***#*#34971539#*#*`Â              |
+| Create device media backup.                     | `***#*#273282*255*663282*#*#***`   |
+| Display camera information.                     | `***#*#34971539#*#*`               |
 | Check the RAM version.                          | `***#*#3264#*#***`                 |
-| Engineering mode (Motorola).                    | `***#*#2486#*#***`Â                |
+| Engineering mode (Motorola).                    | `***#*#2486#*#***`                 |
 | Engineering mode (OnePlus).                     | `***#888#**`                       |
-| Wipe internal memory (OnePlus).                 | `***#*#2947322243#*#***`Â          |
+| Wipe internal memory (OnePlus).                 | `***#*#2947322243#*#***`           |
 | Open hardware diagnostic (Samsung Galaxy).      | `***#0*#**`                        |
 | Display battery information (Samsung).          | `***#0228#**`                      |
 | USB settings (Samsung).                         | `***#0808#**`                      |
